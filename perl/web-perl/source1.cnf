@@ -1,0 +1,4 @@
+[database]
+db=test
+user=root
+password=123456
